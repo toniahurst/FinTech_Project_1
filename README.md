@@ -1,8 +1,9 @@
 # FinTech_Project_1
 
 Executive Summary/Overview
-"The second option is more analytical, with the goal of better understanding data and/or patterns. This may take the form of an elaborate Jupyter notebook, or a set of them. You may also include elements of both options in your project."
+For my first project in FinTech, I chose to start with the second option we were offered, the chance to analyze data. My hope was to make the case for further development of both a business and an app or apps which would help educate people to find better resources for imrpoving their credit.  with the hope I could eventually develop a simple prototype for an app which would help be calculate the cost of interest they were paying for loans and other purchases. My initial attempts to 
 Data Collection, Cleanup, and Exploration
+Data from Urban Institute was orginaly derived from the Survey of Consumer Finance data of the Board of Governors of the Federal Reserve System.
 Approach to Project
 Project ideation
 Project decided
@@ -10,7 +11,9 @@ Data fetching/API integration
 Analysis
 Testing
 Creating documentation
-Creating presentation Because this is a two-week project, you’ll want to make sure that you have a set portion of the site finished by the end of the first week to stay on track. Though you will divide the work among your group members, it’s essential to collaborate and communicate while working on different parts of the application. Don’t silo yourself, hoping that everything will work together. Instead, check in regularly and offer support. Make sure you are in sync and help each other when a blocker arises.
+Creating presentation 
+
+I used Canva to create my presenation choosing a presentation style which I hoped would reduce the discomofrt many people feel in talking about their credit. Images came from Canva and primarily from Adobe Stock. Because this is a two-week project, you’ll want to make sure that you have a set portion of the site finished by the end of the first week to stay on track. Though you will divide the work among your group members, it’s essential to collaborate and communicate while working on different parts of the application. Don’t silo yourself, hoping that everything will work together. Instead, check in regularly and offer support. Make sure you are in sync and help each other when a blocker arises.
 Results/Conclusions of anlaysis
 Next Stepos
 
