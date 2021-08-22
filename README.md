@@ -52,6 +52,8 @@ In this example, we built a database and analyzed performance. Finally, we deplo
 
 This program uses Python 3.7.10, Pandas, Anaconda version 4.10.3, JupyterLab 3.0.14, SQLite, and Voila. It also uses libraries from pandas, JSON, Dotenv, OS, Plotly Express, and Pathlib. It was written on macOS Catalina 10.15.7.
 
+The base code for the interactive pop ups in the interest claculator came from https://djangocentral.com/creating-user-input-dialog/
+
 ## Usage
 
 Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Project_1/blob/main/project_one.ipynb or download the notebook and run from the CLI.
