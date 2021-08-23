@@ -1,13 +1,15 @@
 # FinTech_Project_1
 
 ## Executive Summary/Overview
-For my first project in FinTech, I chose to start with the second option we were offered, the chance to analyze data. My hope was to make the case for further development of both a business and an app or apps which would help people find better resources for improving their credit. This project involved rexaming datasets shared in the article "Wealth and the Credit Health of Young Millennials by Signe-Mary McKernan, Caroline Ratcliffe, and Trina Shanks. My hope was to reproduce their findings from the datasets they used and to update, if possible, their analysis to cover the period since publication in 2016.
+For my first project in FinTech, I chose to start with the second option we were offered, the chance to analyze data. My hope was to make the case for further development of both a business and an app or apps which would help people find better resources for improving their credit. My MVP for this project was to reexamine the datasets shared in the article "Wealth and the Credit Health of Young Millennials" by Signe-Mary McKernan, Caroline Ratcliffe, and Trina Shanks. My hope was to reproduce their findings from the datasets they used and to update, if possible, their analysis to cover the period since publication in 2016.
 
-I used Canva to create my presenation choosing a presentation style which I hoped would reduce the discomofrt many people feel in talking about their credit. Images came from Canva and primarily from Adobe Stock. 
+I used Canva to create my presenation choosing a presentation style which I hoped would reduce the discomofrt many people feel in talking about their credit. Images came primarily from Adobe Stock and also from Canva. The presentation was created using the Canva template Retro.
 
 Results/Conclusions of analysis
 
 Next Steps
+
+A copy of the presentation, original project proposal
 
 ## Fig. 2: Education Loan Debt Increasing
 
