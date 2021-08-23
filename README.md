@@ -1,4 +1,4 @@
-![](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/FullLogo%20(1).png)
+![](https://github.com/toniahurst/FinTech_Project_1/blob/main/Smart_Start_Presentation%20and%20notes/FullLogo.png)
 
 # FinTech_Project_1
 
