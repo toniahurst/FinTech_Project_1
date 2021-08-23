@@ -23,30 +23,53 @@ of researching and choosing a portfolio of assets.
 
 In this example, we built a database and analyzed performance. Finally, we deployed out notebook to a web app useing Voila.
 
-## Fig. 1: Review the PYPL DataFrame
+## Fig. 2: Education Loan Debt Increasing
 
-![Fig. 1](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%201.png)
+![Fig. 2](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Fig.%202.png)
 
-## Fig. 2: PYPL Daily Returns
+## Fig. 4: Proportions of Debt
 
-![Fig. 2](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%202.png)
+![Fig. 4](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Fig.%204.png)
 
-## Fig. 3: PYPL Table of Cumulative Returns
+## Fig. 5: Cost of a Subprime Credit Score
 
-![Fig. 3](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%203.png)
+![Fig. 5](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Fig.%205.png)
 
-## Fig. 4: PYPL Daily Returns
+## Fig. 9: The Reacial Wealth Gap Grows Sharply with Age
 
-![Fig. 4](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%204.png)
+![Fig. 9](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Fig.%209.png)
 
-## Fig. 5: Table of Daily Returns - GDOT, GS, PYPL, SQ
+## Fig. 10: Debt Deliquency by Millennials Increases with Age
 
-![Fig. 5](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%205.png)
+![Fig. 10](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Fig.%2010.png)
 
-## Fig. 6: Cumulative Returns - ETF Portfolio (GDOT, GS, PYPL, SQ) 
+## Table 11: Concatenated Table of Data on States and Percent of Millennials in Collection
 
-![Fig. 6](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Fig.%206.png)
+![Table 11](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Table%2011.png)
 
+## Fig. 11: Percentage of Adults Under 30 with Debt in Collections
+
+![Fig. 11](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Fig.%2011.png)
+
+## Table 13: Concatenated Table of Data on States and Average Credit Score
+
+![Table 13](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Table%2013.png)
+
+## Fig. 13: Credit Scores by State
+
+![Fig. 13](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Table%2013.png)
+
+## Table 14: Distribution of Credit Entry Products by Age Group
+
+![Table 14](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Table%2014.png)
+
+## Fig. 17: Credit Invisibles and Neighborhood Income Level
+
+![Fig. 17](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Fig.%2017.png)
+
+## Fig. 18: Distribution of Entry Products by Neighborhood Income
+
+![Fig. 18](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/Fig.%2018.png)
 
 ## For a raw feed download,![click this link](https://github.com/toniahurst/FinTech_Module_7_Challenge/blob/main/images/Screen%20Recording%202021-08-15%20at%2012.48.39%20PM.mov)
 
@@ -55,11 +78,11 @@ In this example, we built a database and analyzed performance. Finally, we deplo
 
 This program uses Python 3.7.10, Pandas, Anaconda version 4.10.3, JupyterLab 3.0.14, SQLite, and Voila. It also uses libraries from pandas, JSON, Dotenv, OS, Plotly Express, and Pathlib. It was written on macOS Catalina 10.15.7.
 
-The base code for the interactive pop ups in the interest claculator came from https://djangocentral.com/creating-user-input-dialog/
+The base code for the interactive for the real_cost_calculator strated as base code from https://djangocentral.com/creating-user-input-dialog/
 
 ## Usage
 
-Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Project_1/blob/main/project_one.ipynb or download the notebook and run from the CLI.
+Open the Jupyter Lab notebook at https://github.com/toniahurst/FinTech_Project_1 or download the notebook and run from the CLI.
 
 ## Contributors
 
