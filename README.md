@@ -9,7 +9,7 @@ Results/Conclusions of analysis
 
 Next Steps
 
-A copy of the presentation, original project proposal
+A copy of the presentation, original project proposal can be found in the folder 
 
 ## Fig. 2: Education Loan Debt Increasing
 
