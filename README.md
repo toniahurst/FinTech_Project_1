@@ -66,9 +66,9 @@ In this example, we built a database and analyzed performance. Finally, we deplo
 
 ## Technologies
 
-This program uses Python 3.7.10, Pandas, Anaconda version 4.10.3, JupyterLab 3.0.14, SQLite, and Voila. It also uses libraries from pandas, JSON, Dotenv, OS, Plotly Express, and Pathlib. It was written on macOS Catalina 10.15.7.
+This program uses Python 3.7.10, Pandas, Anaconda version 4.10.3, JupyterLab 3.0.14, SQLite, and Voila. It also uses libraries from pandas, JSON, Dotenv, OS, Plotly Express, tkinter, and Pathlib. It was written on macOS Catalina 10.15.7.
 
-The base code for the interactive for the real_cost_calculator strated as base code from https://djangocentral.com/creating-user-input-dialog/
+The real_cost_calculator currently under development started as base code from https://djangocentral.com/creating-user-input-dialog/
 
 ## Usage
 
