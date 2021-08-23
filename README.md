@@ -1,4 +1,6 @@
-![The original project proposal is here](https://github.com/toniahurst/FinTech_Project_1/blob/main/Smart_Start_Presentation%20and%20notes/Smart%20Start%20-%20Google%20Docs.pdf)# FinTech_Project_1
+![](https://github.com/toniahurst/FinTech_Project_1/blob/main/Resources_Project_1/screenshots/FullLogo%20(1).jpg)
+
+# FinTech_Project_1
 
 ## Summary/Overview
 For my first project in FinTech, I chose to start with the second option we were offered, the chance to analyze data. My objective was to make the case for further development of both a business and an app/apps which would help people find better resources for improving their credit. My goal was to get clear answers which would tell me whether it made sense to develop a business in this area. My MVP for this project was to reexamine the datasets shared in the article "Wealth and the Credit Health of Young Millennials" by Signe-Mary McKernan, Caroline Ratcliffe, and Trina Shanks and reproduce their findings from the datasets they used. If I was able to achieve that, I would attempt to update their analysis to cover the period since publication in 2016. I achieved this objective and was able to recreate five other datasets with data from the Consumer Financial Protection Bureau.
