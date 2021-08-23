@@ -11,9 +11,9 @@ Results/Conclusions of analysis
 
 My next steps would be to continue my work and to develop an app which would help people calculate the true costs of borrowing money. 
 
-![The presentation can be found here](https://github.com/toniahurst/FinTech_Project_1/blob/main/Smart_Start_Presentation%20and%20notes/Retro%20Brainstorm%20Presentation.pdf)
-
 ![The original project proposal is here](https://github.com/toniahurst/FinTech_Project_1/blob/main/Smart_Start_Presentation%20and%20notes/Smart%20Start%20-%20Google%20Docs.pdf)
+
+![The presentation can be found here](https://github.com/toniahurst/FinTech_Project_1/blob/main/Smart_Start_Presentation%20and%20notes/Retro%20Brainstorm%20Presentation.pdf)
 
 ## Fig. 2: Education Loan Debt Increasing
 
