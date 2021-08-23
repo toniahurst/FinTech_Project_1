@@ -1,17 +1,13 @@
 # FinTech_Project_1
 
 ## Executive Summary/Overview
-For my first project in FinTech, I chose to start with the second option we were offered, the chance to analyze data. My hope was to make the case for further development of both a business and an app or apps which would help people find better resources for improving their credit. This project involved rexaming datasets shared in the article "Wealth and the Credit Health of Young Millennials by Signe-Mary McKernan, Caroline Ratcliffe, and Trina Shanks. My hope was to update their analysis to cover the period since publication in 2016.
+For my first project in FinTech, I chose to start with the second option we were offered, the chance to analyze data. My hope was to make the case for further development of both a business and an app or apps which would help people find better resources for improving their credit. This project involved rexaming datasets shared in the article "Wealth and the Credit Health of Young Millennials by Signe-Mary McKernan, Caroline Ratcliffe, and Trina Shanks. My hope was to reproduce their findings from the datasets they used and to update, if possible, their analysis to cover the period since publication in 2016.
 
-I used Canva to create my presenation choosing a presentation style which I hoped would reduce the discomofrt many people feel in talking about their credit. Images came from Canva and primarily from Adobe Stock. Because this is a two-week project, you’ll want to make sure that you have a set portion of the site finished by the end of the first week to stay on track. Though you will divide the work among your group members, it’s essential to collaborate and communicate while working on different parts of the application. Don’t silo yourself, hoping that everything will work together. Instead, check in regularly and offer support. Make sure you are in sync and help each other when a blocker arises.
-Results/Conclusions of anlaysis
-Next Stepos
+I used Canva to create my presenation choosing a presentation style which I hoped would reduce the discomofrt many people feel in talking about their credit. Images came from Canva and primarily from Adobe Stock. 
 
-This challenge focused on ETFs, a form of passive investing which has grown in popularity in recent years. 
-ETFs are well-diversified and offer the advanatges of risk spread over many assets combined with the elimination
-of researching and choosing a portfolio of assets.
+Results/Conclusions of analysis
 
-In this example, we built a database and analyzed performance. Finally, we deployed out notebook to a web app useing Voila.
+Next Steps
 
 ## Fig. 2: Education Loan Debt Increasing
 
