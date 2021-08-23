@@ -1,17 +1,11 @@
 # FinTech_Project_1
 
 ## Summary/Overview
-For my first project in FinTech, I chose to start with the second option we were offered, the chance to analyze data. My objective was to make the case for further development of both a business and an app/apps which would help people find better resources for improving their credit. My goal was to get clear answers which would tell me whether it made sense to develop a business in this area. My MVP for this project was to reexamine the datasets shared in the article "Wealth and the Credit Health of Young Millennials" by Signe-Mary McKernan, Caroline Ratcliffe, and Trina Shanks and reproduce their findings from the datasets they used. If I was able to achieve that, I would attempt to update their analysis to cover the period since publication in 2016. I achieved this objective and was able to recreate five other datasets from a dataset of information from the Consumer Finance Bureau
+For my first project in FinTech, I chose to start with the second option we were offered, the chance to analyze data. My objective was to make the case for further development of both a business and an app/apps which would help people find better resources for improving their credit. My goal was to get clear answers which would tell me whether it made sense to develop a business in this area. My MVP for this project was to reexamine the datasets shared in the article "Wealth and the Credit Health of Young Millennials" by Signe-Mary McKernan, Caroline Ratcliffe, and Trina Shanks and reproduce their findings from the datasets they used. If I was able to achieve that, I would attempt to update their analysis to cover the period since publication in 2016. I achieved this objective and was able to recreate five other datasets with data from the Consumer Financial Protection Bureau.
 
-There were initially serious obstacles finding datasets with enough detail to give me insights to the credit market. The private, paid service I first identified turned out to be better suited to use later in this project. With the help of my teacher Khaled Karmen, I was able to find publically available datasets and commmence work. 
+There were initially serious obstacles finding datasets with enough detail to give me insights to the credit market. The private, paid service I first identified turned out to be better suited to use later in this project. With the help of my teacher Khaled Karmen, I was able to find publically available datasets and commmence work. I used the Mapbox API to create visualizations of concatentated, geographic data. I used the Canva "Retro" templateto create a presentation I hoped would ease the discomfort many people feel in talking about credit scores and rates. My main source for images was Adobe Stock and also, Canva. 
 
-The Mapbox API was used to create visualizations of concatentated, geographic data.
-
-I used Canva to create my presentation choosing a I hoped would ease the discomfort many people feel in talking about credit scores and rates. My main source for images was Adobe Stock and also, Canva. The presentation was created using the Canva "Retro" template.
-
-Results/Conclusions of analysis
-
-My next steps would be to continue my work and to develop an app which would help people calculate the true costs of borrowing money. 
+## Tables and Visualizations
 
 ![The original project proposal is here](https://github.com/toniahurst/FinTech_Project_1/blob/main/Smart_Start_Presentation%20and%20notes/Smart%20Start%20-%20Google%20Docs.pdf)
 
