@@ -9,9 +9,9 @@ Results/Conclusions of analysis
 
 Next Steps
 
-![A copy of the presentation can be found here](https://github.com/toniahurst/FinTech_Project_1/blob/main/Smart_Start_Presentation%20and%20notes/Retro%20Brainstorm%20Presentation.pdf)
+![The presentation can be found here](https://github.com/toniahurst/FinTech_Project_1/blob/main/Smart_Start_Presentation%20and%20notes/Retro%20Brainstorm%20Presentation.pdf)
 
-![The original project proposal can be found in the here](https://github.com/toniahurst/FinTech_Project_1/blob/main/Smart_Start_Presentation%20and%20notes/Smart%20Start%20-%20Google%20Docs.pdf)
+![The original project proposal is here](https://github.com/toniahurst/FinTech_Project_1/blob/main/Smart_Start_Presentation%20and%20notes/Smart%20Start%20-%20Google%20Docs.pdf)
 
 ## Fig. 2: Education Loan Debt Increasing
 
