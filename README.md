@@ -5,6 +5,8 @@ For my first project in FinTech, I chose to start with the second option we were
 
 There were initially serious obstacles finding datasets with enough detail to give me insights to the credit market. The private, paid service I first identified turned out to be better suited to use later in this project. With the help of my teacher Khaled Karmen, I was able to find publically available datasets and commmence work. 
 
+The Mapbox API was used to create visualizations of concatentated, geographic data.
+
 I used Canva to create my presentation choosing a I hoped would ease the discomfort many people feel in talking about credit scores and rates. My main source for images was Adobe Stock and also, Canva. The presentation was created using the Canva "Retro" template.
 
 Results/Conclusions of analysis
