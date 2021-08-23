@@ -9,7 +9,7 @@ I used Canva to create my presentation choosing a I hoped would ease the discomf
 
 Results/Conclusions of analysis
 
-Next Steps
+My next steps would be to continue my work and to develop an app which would help people calculate the true costs of borrowing money. 
 
 ![The presentation can be found here](https://github.com/toniahurst/FinTech_Project_1/blob/main/Smart_Start_Presentation%20and%20notes/Retro%20Brainstorm%20Presentation.pdf)
 
