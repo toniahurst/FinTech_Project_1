@@ -1,7 +1,9 @@
 # FinTech_Project_1
 
-## Executive Summary/Overview
-For my first project in FinTech, I chose to start with the second option we were offered, the chance to analyze data. My hope was to make the case for further development of both a business and an app or apps which would help people find better resources for improving their credit. My MVP for this project was to reexamine the datasets shared in the article "Wealth and the Credit Health of Young Millennials" by Signe-Mary McKernan, Caroline Ratcliffe, and Trina Shanks. My hope was to reproduce their findings from the datasets they used and to update, if possible, their analysis to cover the period since publication in 2016.
+## Summary/Overview
+For my first project in FinTech, I chose to start with the second option we were offered, the chance to analyze data. My objective was to make the case for further development of both a business and an app/apps which would help people find better resources for improving their credit. My goal was to get clear answers which would tell me whether it made sense to develop a business in this area. My MVP for this project was to reexamine the datasets shared in the article "Wealth and the Credit Health of Young Millennials" by Signe-Mary McKernan, Caroline Ratcliffe, and Trina Shanks and reproduce their findings from the datasets they used. If I was able to achieve that, I would attempt to update their analysis to cover the period since publication in 2016.
+
+There were initially serious obstacles finding datasets with enough detail to give me insights to the credit market. The private, paid service I first identified turned out to be better suited to use later in this project. With the help of my teacher Khaled Karmen, I was able to find publically available datasets and commmence work. 
 
 I used Canva to create my presentation choosing a I hoped would ease the discomfort many people feel in talking about credit scores and rates. My main source for images was Adobe Stock and also, Canva. The presentation was created using the Canva "Retro" template.
 
